@@ -2,9 +2,9 @@
 
 ## Table of Contents
 
-* [Project Overview](##Project_Overview)
+* [Project Overview](##Project-Overview)
 * [Installation](##Installation)
-* [Tests Built](##Tests_Built)
+* [Tests Built](##Tests-Built)
 
 ## Project Overview
 
