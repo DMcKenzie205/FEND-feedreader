@@ -2,9 +2,9 @@
 
 ## Table of Contents
 
-* [Project Overview](#Project_Overview)
-* [Installation](#Installation)
-* [Tests Built](#Tests_Built)
+* [Project Overview](##Project_Overview)
+* [Installation](##Installation)
+* [Tests Built](##Tests_Built)
 
 ## Project Overview
 
@@ -35,19 +35,19 @@ Jasmine Framework version used is `jasmine-2.1.2`
 
 The following is a list of the tests that were added to Jasmine to test the functionality of the FeedReader.
 
-###RSS Feeds
+### RSS Feeds
 1. Ensure that the allFeeds variable has been defined and that it is not empty.
 
 2. Check that each URL in the allFeeds object is defined and that the URL is not empty.
 
 3. Check that each name in the allFeeds object is defined and that the name is not empty.
 
-###The Menu
+### The Menu
 4. Ensure the menu element is hidden by default.
 
 5. Ensure the menu changes visibility when the menu icon is clicked. This test has two expectations: does the menu display when clicked and does it hide when clicked again.
 
-###Initial Entries
+### Initial Entries
 6. Ensure when the loadFeed function is called and completes its work, there is at least a single .entry element within the .feed container.
 
 7. Ensure when a new feed is loaded by the loadFeed function that the content actually changes.
